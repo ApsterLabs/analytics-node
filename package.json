@@ -20,6 +20,7 @@
     "analytics": "bin/analytics"
   },
   "dependencies": {
+    "assert": "1.4.1",
     "clone": "~0.1.17",
     "commander": "^2.9.0",
     "component-type": "~1.0.0",
